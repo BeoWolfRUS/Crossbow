@@ -1,0 +1,32 @@
+* {
+margin:0;
+padding:0;
+}
+header {
+width:100%;
+height:100px;
+background-color:red;
+}
+nav {
+width:20%;
+height:400px;
+background-color:yellow;
+float:left;
+}
+article {
+width:80%;
+height:460px;
+background-color:cyan;
+margin-left:20%;
+}
+.shell{
+//margin-left:25px;
+}
+.shell  li{
+margin-left:20px;
+}
+footer {
+width:100%;
+height:20px;
+background-color:green;
+}
