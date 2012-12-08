@@ -36,3 +36,13 @@ a
 	color:indigo;
 	font-size:20px;
 }
+
+.forjs
+{
+	margin:0 auto;
+	color: white;
+	border: 5px solid black;
+	background-color:black;
+	width:100px;
+	text-align:center;	
+}
